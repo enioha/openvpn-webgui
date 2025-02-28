@@ -1,6 +1,6 @@
 # OpenVPN Web Gui Community
 
-Projeto OpenSource , com objetivo de desenvolver uma interface web para gerenciamento simplificado do Open VPN Community
+Projeto OpenSource , com objetivo de desenvolver uma interface web para gerenciamento simplificado do Open VPN versão community
 
 Installing OpenVPN: https://openvpn.net/community-resources/installing-openvpn/
 
